@@ -1,8 +1,6 @@
 package org.example;
 
 public class PerceptronArabian {
-
-
     double[] enters;
     double outer;
     double[] weights;
